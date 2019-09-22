@@ -17,4 +17,4 @@ You will need to install the following libraries, the other ones are already pro
 * plaid
 
 ## How it will look like:
-![How your spreadsheets will look like](example.png "Example image")
+![How your spreadsheets will look like](example_img.png "Example image")
