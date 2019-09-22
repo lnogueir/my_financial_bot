@@ -1,5 +1,5 @@
 from exceler import Exceler
-import webbrowser, os
+import webbrowser, os, time
 
 
 if __name__ == '__main__':
