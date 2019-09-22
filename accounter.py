@@ -1,6 +1,6 @@
 import plaid
 import datetime
-from config import *
+from my_config import *
 
 
 def format_error(e):
